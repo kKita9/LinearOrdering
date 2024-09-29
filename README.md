@@ -3,7 +3,7 @@
 This project focuses on web scraping and linear ordering to generate a ranking of mobile phones based on user-selected criteria. Using Python, it scrapes data from the "sferis.pl" website, processes it, and creates a console-based output ranking. The project employs a variety of Python libraries for asynchronous web scraping, data processing, and visualization.
 
 The primary goal was to develop a program that provides a clear and structured output in the console, showcasing the ranking of mobile phones based on the selected brands and criteria.
-## Project Structure:
+## 📁 Project Structure:
 ```
 LinearOrdering/
 │
@@ -27,3 +27,11 @@ LinearOrdering/
 
 ## Console Output Example:
 
+![output1](https://github.com/user-attachments/assets/d77a391f-9674-4f0f-9069-282062dd0d9a)
+
+![output2](https://github.com/user-attachments/assets/fd09cc12-e5a7-4d48-be12-eeeb3c2ecf9f)
+
+
+### 👩🏻‍💻 Project authors:
+* Karina Krotkiewicz - karina.krotkiewicz@gmail.com
+* Karol Kita - kkita970@gmail.com
