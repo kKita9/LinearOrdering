@@ -45,9 +45,17 @@ If the website structure changes and scraping fails due to modifications in CSS 
 
 ## Console Output Example:
 
-![output1](https://github.com/user-attachments/assets/d77a391f-9674-4f0f-9069-282062dd0d9a)
+![obraz](https://github.com/user-attachments/assets/3e7086ed-41ac-439b-9a46-7153d039bbf9)
 
-![output2](https://github.com/user-attachments/assets/fd09cc12-e5a7-4d48-be12-eeeb3c2ecf9f)
+![obraz](https://github.com/user-attachments/assets/df829bed-7048-47e2-a888-5eae8ea02fb4)
+
+![obraz](https://github.com/user-attachments/assets/4eb665f7-d86c-4ed3-82f6-2ad6183d1628)
+
+![obraz](https://github.com/user-attachments/assets/25026d82-da4b-4856-857b-6c1fd59d133f)
+
+![obraz](https://github.com/user-attachments/assets/7548b707-6a5a-44c2-8dfe-859725896e7e)
+
+![obraz](https://github.com/user-attachments/assets/4bd9745b-0818-4295-a0f8-9c805f52e3bc)
 
 
 ### 👩🏻‍💻 Project authors:
